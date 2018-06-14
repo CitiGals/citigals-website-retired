@@ -6,7 +6,7 @@
   padding-top: 60px;
   text-align: center;
   font-family: interstate, charcoal, sans-serif;
-  color: #f28add;
+  color: #f791ac;
 }
 
 .links{
@@ -40,9 +40,11 @@
   padding-bottom: 40px;
   padding-left: 20px;
   padding-right: 20px;
+  border-radius: 25px; /*gives rounded corners*/
   text-align: center;
   font-family: interstate, charcoal, sans-serif;
   color: white;
+  font-size: 3vw;
 }
 
 .flex-container {
@@ -81,9 +83,9 @@ text-decoration: none;}
 
 a:visited {color: black;}
 
-a:hover {color: #f28add;}
+a:hover {color: #f791ac;}
 
-a:active {color: #f28add;}
+a:active {color: #f791ac;}
 
 h2 { background-image: url("./images/Import 6 137.JPG");
 background-size: cover;
@@ -102,7 +104,7 @@ padding-top: 700px;
 
 
 h3 {
-    color: #f28add;
+    color: #f791ac;
     font-family: interstate,Charcoal, sans-serif;
     text-align: center;
     letter-spacing: 5px;
@@ -115,7 +117,7 @@ h4{
     font-family: interstate,sans-serif;
     text-align: center;
     font-weight: .01;
-    font-size: 150%;
+    font-size: 3vw;
     line-height: 250%;
 
 
@@ -132,7 +134,7 @@ h5{
 }
 
 h6{
-    color:black;
+    color:white;
     font-family: interstate, sans-serif;
     text-align: center;
     font-weight: .01;
@@ -143,7 +145,7 @@ h6{
 }
 
 footer {
-    color: #f28add;
+    color: #f791ac;
     font-family: interstate,Charcoal, sans-serif;
     text-align: center;
     letter-spacing: 1px;
