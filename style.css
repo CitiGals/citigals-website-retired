@@ -59,14 +59,24 @@
   padding: 20px;
   font-size: 30px;
 }
+
 .row {
   display: flex;
+
 }
 
 .column {
   flex: 33.33%;
   padding: 5px;
 }
+
+@media screen and (max-width: 500px) {
+	.column{
+		width: 100%;
+	}
+}
+
+
 
 
 nav {
@@ -150,6 +160,17 @@ h6{
     font-size: 100%;
     padding: 20px;
 
+
+}
+
+h7{
+    color: #000000;
+    font-family: interstate, sans-serif;
+    text-align: right;
+    font-weight: 10;
+    font-size: 100%;
+    padding: 20px;
+    
 
 }
 
