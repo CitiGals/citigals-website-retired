@@ -62,7 +62,7 @@
 
 .row {
   display: flex;
-  
+
 
 }
 
@@ -125,7 +125,7 @@ h3 {
     text-align: center;
     letter-spacing: 5px;
     font-size: 300%;
-    line-height: 40px;
+    line-height: 80%;
 }
 
 h4{
@@ -167,7 +167,7 @@ h7{
     font-weight: 10;
     font-size: 100%;
     padding: 20px;
-    
+
 
 }
 
